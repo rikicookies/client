@@ -1,0 +1,38 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Eexample 1 description double exp and a half, double loot !chance!, regular spawn and double skill",
+            "displaypriority": 6,
+            "enddate": 1735614000,
+            "isseasonal": false,
+            "name": "Eexample 1",
+            "specialevent": 0,
+            "startdate": 1704078000
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Eexample 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "displaypriority": 6,
+            "enddate": 1735614000,
+            "isseasonal": false,
+            "name": "Eexample 2",
+            "specialevent": 0,
+            "startdate": 1704078000
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Find more Fiendish monsters on the map. Double Fiendish Rate: 200%",
+            "displaypriority": 0,
+            "enddate": 1736910000,
+            "isseasonal": false,
+            "name": "Double Fiendish Weekend",
+            "specialevent": 0,
+            "startdate": 1736305200
+        }
+    ],
+    "lastupdatetimestamp": 1791888974
+}
